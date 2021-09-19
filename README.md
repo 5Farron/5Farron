@@ -1,6 +1,5 @@
 <p align="center">
   <h1>Hello, Happy World !</h1>
-  <img src="https://www.discoverchina.com/upload/pics/thumbs/7974d1ec6a14f248ea1fdb350cb564be.png"><br>
 </p>
 
 <h3>👨🏻‍🎓 About me :</h2>

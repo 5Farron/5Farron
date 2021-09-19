@@ -28,8 +28,8 @@ Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized 
 <h3>:tada: Activities :</h2>
 
 <div>
-  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=5Farron&show_icons=true&hide_border=true">
   <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=ewxxrkcnpum30bpc8jy90ivxf">
+  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=5Farron&show_icons=true&hide_border=true">
 </div>
 
 <h3><img height="50" src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png"><br><b>Farron#7093</b></h2>

@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍🎓 About me :</h2>
 
-Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized in __web__ development. PHP lover, I'm in constant search of news in technologies. In my spare time, I work on my personnal project "PortalScan" that you can check on my profile, I also play video games (Final Fantasy & NieR Lover :heart: !)
+Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized in __web__ development. PHP lover, I'm in constant search of news in technologies. In my spare time I work on my personnal project "PortalScan" that will be available soon online, I also play video games (Final Fantasy & NieR Lover :heart: !)
 
 <h3>:sparkles: Technlogies :</h2>
 

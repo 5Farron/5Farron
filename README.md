@@ -2,11 +2,11 @@
   <h1>Hello, Happy World !</h1>
 </p>
 
-<h3>👨🏻‍🎓 About me :</h2>
+<h2>👨🏻‍🎓 About me :</h2>
 
 Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized in __web__ development. PHP lover, I'm in constant search of news in technologies. In my spare time I work on my personnal project "PortalScan" that will be available soon online, I also play video games (Final Fantasy & NieR Lover :heart: !)
 
-<h3>:sparkles: Technlogies :</h2>
+<h2>:sparkles: Technlogies :</h2>
 
 <div>
   
@@ -22,10 +22,7 @@ Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized 
 
 </div>
 
-<h3>:tada: Activities :</h2>
+<h2>:memo: Contact :</h2>
 
-<div>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=5Farron&show_icons=true&hide_border=true">
-</div>
-
-<h3><img height="50" src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png"><br><b>Farron#7093</b></h2>
+<h3><img height="50" src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png"><br><b>Farron#7093</b></h3>
+<h3><img height="70" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/58700/e-mail-emoji-clipart-xl.png"><br><b>fariasamuel2001@gmail.com</b></h3>

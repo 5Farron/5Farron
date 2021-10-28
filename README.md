@@ -18,14 +18,6 @@ Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized 
   <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/wireshark-004DB0?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/></a>
-</div>
-
-<h2>IDEs/Editors :memo:</h2>
-<div>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
-  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></a>
-  <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/></a>
-  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/></a>
   <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
 </div>
 

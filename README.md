@@ -3,6 +3,7 @@
 </p>
 
 <h2>About me 👨🏻‍🎓</h2>
+je suis une egirl UwU
 Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized in web development. PHP lover, I'm in constant search of news in technologies. In my spare time I work on my personnal project "PortalScan" that will be available soon online, I also play video games (Final Fantasy & NieR Lover :heart: !)
 
 <h2>Tools & Programming languages 🔧</h2>

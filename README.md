@@ -24,6 +24,7 @@ Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized 
 <h2>Stats 📈</h2>
 
 ![Main stats](https://github-readme-stats.vercel.app/api?username=5Farron&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Main stats](https://github-readme-stats.vercel.app/api?username=flashhrdc&show_icons=true&theme=radical)
 
 <h2> Contact 🌍</h2>
 <div>

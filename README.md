@@ -3,7 +3,7 @@
 </p>
 
 <h2>About me 👨🏻‍🎓</h2>
-Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized in web development. PHP lover, I'm in constant search of news in technologies. In my spare time I work on my personnal project "PortalScan", I also play video games (Final Fantasy & HALO :heart: !)
+Hey ! i'm Samuel but you can call me Farron :) i'm a french student specialized in web development. PHP lover, I'm in constant search of news in technologies. In my spare time I work on my personnal project "PortalScan", I also play video games (Sekiro & Final Fantasy :heart: !)
 
 <h2>Tools & Programming languages 🔧</h2>
 <div>
